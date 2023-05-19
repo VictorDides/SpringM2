@@ -20,3 +20,14 @@ body {
 #sidebar {
     padding: 0;
 }
+
+#linksprivate {
+    margin: 10px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+.list-group {
+    text-align: center;
+}
