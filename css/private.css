@@ -1,0 +1,22 @@
+body {
+    background-image: url(/img/private-background.jpg);
+ }
+
+#resume {
+    background-color: rgb(177, 206, 243);
+    margin: 20px;
+    border-radius: 15px;
+
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+#sidebar {
+    padding: 0;
+}
